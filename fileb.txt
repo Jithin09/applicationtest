@@ -2,3 +2,4 @@ This is file b
 A change is done
 Another change to b
 Line added for squash merge example in fileb
+Line added for squash merge example part2
